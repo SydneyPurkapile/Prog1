@@ -1,0 +1,14 @@
+C:\Users\purkapile.s\Desktop\Prog1\Pg140SimpleCalc\bin\Debug\Pg140SimpleCalc.exe.config
+C:\Users\purkapile.s\Desktop\Prog1\Pg140SimpleCalc\bin\Debug\Pg140SimpleCalc.exe
+C:\Users\purkapile.s\Desktop\Prog1\Pg140SimpleCalc\bin\Debug\Pg140SimpleCalc.dll
+C:\Users\purkapile.s\Desktop\Prog1\Pg140SimpleCalc\bin\Debug\IronPython.dll
+C:\Users\purkapile.s\Desktop\Prog1\Pg140SimpleCalc\bin\Debug\IronPython.Modules.dll
+C:\Users\purkapile.s\Desktop\Prog1\Pg140SimpleCalc\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\purkapile.s\Desktop\Prog1\Pg140SimpleCalc\bin\Debug\Microsoft.Scripting.dll
+C:\Users\purkapile.s\Desktop\Prog1\Pg140SimpleCalc\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\purkapile.s\Desktop\Prog1\Pg140SimpleCalc\bin\Debug\IronPython.xml
+C:\Users\purkapile.s\Desktop\Prog1\Pg140SimpleCalc\bin\Debug\IronPython.Modules.xml
+C:\Users\purkapile.s\Desktop\Prog1\Pg140SimpleCalc\obj\x86\Debug\Pg140SimpleCalc.pyprojResolveAssemblyReference.cache
+C:\Users\purkapile.s\Desktop\Prog1\Pg140SimpleCalc\obj\x86\Debug\Pg140SimpleCalc.MainForm.resources
+C:\Users\purkapile.s\Desktop\Prog1\Pg140SimpleCalc\obj\x86\Debug\Pg140SimpleCalc.pyproj.GenerateResource.Cache
+C:\Users\purkapile.s\Desktop\Prog1\Pg140SimpleCalc\obj\x86\Debug\Pg140SimpleCalc.exe

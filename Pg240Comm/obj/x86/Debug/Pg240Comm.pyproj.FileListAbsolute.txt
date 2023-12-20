@@ -1,0 +1,14 @@
+C:\Users\purkapile.s\Desktop\Prog1\Pg240Comm\obj\x86\Debug\Pg240Comm.pyprojResolveAssemblyReference.cache
+C:\Users\purkapile.s\Desktop\Prog1\Pg240Comm\obj\x86\Debug\Pg240Comm.MainForm.resources
+C:\Users\purkapile.s\Desktop\Prog1\Pg240Comm\obj\x86\Debug\Pg240Comm.pyproj.GenerateResource.Cache
+C:\Users\purkapile.s\Desktop\Prog1\Pg240Comm\bin\Debug\Pg240Comm.exe.config
+C:\Users\purkapile.s\Desktop\Prog1\Pg240Comm\bin\Debug\Pg240Comm.exe
+C:\Users\purkapile.s\Desktop\Prog1\Pg240Comm\bin\Debug\Pg240Comm.dll
+C:\Users\purkapile.s\Desktop\Prog1\Pg240Comm\bin\Debug\IronPython.dll
+C:\Users\purkapile.s\Desktop\Prog1\Pg240Comm\bin\Debug\IronPython.Modules.dll
+C:\Users\purkapile.s\Desktop\Prog1\Pg240Comm\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\purkapile.s\Desktop\Prog1\Pg240Comm\bin\Debug\Microsoft.Scripting.dll
+C:\Users\purkapile.s\Desktop\Prog1\Pg240Comm\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\purkapile.s\Desktop\Prog1\Pg240Comm\bin\Debug\IronPython.xml
+C:\Users\purkapile.s\Desktop\Prog1\Pg240Comm\bin\Debug\IronPython.Modules.xml
+C:\Users\purkapile.s\Desktop\Prog1\Pg240Comm\obj\x86\Debug\Pg240Comm.exe

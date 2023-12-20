@@ -1,0 +1,14 @@
+C:\Users\purkapile.s\Desktop\Prog1\Prog122a\obj\x86\Debug\Prog122a.pyprojResolveAssemblyReference.cache
+C:\Users\purkapile.s\Desktop\Prog1\Prog122a\obj\x86\Debug\Prog122a.MainForm.resources
+C:\Users\purkapile.s\Desktop\Prog1\Prog122a\obj\x86\Debug\Prog122a.pyproj.GenerateResource.Cache
+C:\Users\purkapile.s\Desktop\Prog1\Prog122a\bin\Debug\Prog122a.exe.config
+C:\Users\purkapile.s\Desktop\Prog1\Prog122a\bin\Debug\Prog122a.exe
+C:\Users\purkapile.s\Desktop\Prog1\Prog122a\bin\Debug\Prog122a.dll
+C:\Users\purkapile.s\Desktop\Prog1\Prog122a\bin\Debug\IronPython.dll
+C:\Users\purkapile.s\Desktop\Prog1\Prog122a\bin\Debug\IronPython.Modules.dll
+C:\Users\purkapile.s\Desktop\Prog1\Prog122a\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\purkapile.s\Desktop\Prog1\Prog122a\bin\Debug\Microsoft.Scripting.dll
+C:\Users\purkapile.s\Desktop\Prog1\Prog122a\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\purkapile.s\Desktop\Prog1\Prog122a\bin\Debug\IronPython.xml
+C:\Users\purkapile.s\Desktop\Prog1\Prog122a\bin\Debug\IronPython.Modules.xml
+C:\Users\purkapile.s\Desktop\Prog1\Prog122a\obj\x86\Debug\Prog122a.exe

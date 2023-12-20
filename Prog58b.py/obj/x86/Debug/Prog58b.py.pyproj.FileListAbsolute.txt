@@ -1,0 +1,14 @@
+C:\Users\purkapile.s\Desktop\Prog1\Prog58b.py\bin\Debug\Prog58b.py.exe.config
+C:\Users\purkapile.s\Desktop\Prog1\Prog58b.py\bin\Debug\Prog58b.py.exe
+C:\Users\purkapile.s\Desktop\Prog1\Prog58b.py\bin\Debug\Prog58b.py.dll
+C:\Users\purkapile.s\Desktop\Prog1\Prog58b.py\bin\Debug\IronPython.dll
+C:\Users\purkapile.s\Desktop\Prog1\Prog58b.py\bin\Debug\IronPython.Modules.dll
+C:\Users\purkapile.s\Desktop\Prog1\Prog58b.py\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\purkapile.s\Desktop\Prog1\Prog58b.py\bin\Debug\Microsoft.Scripting.dll
+C:\Users\purkapile.s\Desktop\Prog1\Prog58b.py\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\purkapile.s\Desktop\Prog1\Prog58b.py\bin\Debug\IronPython.xml
+C:\Users\purkapile.s\Desktop\Prog1\Prog58b.py\bin\Debug\IronPython.Modules.xml
+C:\Users\purkapile.s\Desktop\Prog1\Prog58b.py\obj\x86\Debug\Prog58b.py.pyprojResolveAssemblyReference.cache
+C:\Users\purkapile.s\Desktop\Prog1\Prog58b.py\obj\x86\Debug\Prog58b.py.MainForm.resources
+C:\Users\purkapile.s\Desktop\Prog1\Prog58b.py\obj\x86\Debug\Prog58b.py.pyproj.GenerateResource.Cache
+C:\Users\purkapile.s\Desktop\Prog1\Prog58b.py\obj\x86\Debug\Prog58b.py.exe

@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.2.1.8805
+Project("{BD8E9625-815A-4BDB-B228-5D4F9C2541A1}") = "MyName", "MyName.rbproj", "{6904635C-A0A3-4A3E-9091-878C0219C873}"
+EndProject
+Project("{BD8E9625-815A-4BDB-B228-5D4F9C2541A1}") = "AboutMe", "..\AboutMe\AboutMe.rbproj", "{CC798777-E45B-4D9C-821E-AED7A7FDE1FB}"
+EndProject
+Project("{BD8E9625-815A-4BDB-B228-5D4F9C2541A1}") = "CraigRules", "..\CraigRules\CraigRules.rbproj", "{B435C372-DE8B-49DC-92BD-85314B1DADB7}"
+EndProject
+Project("{BD8E9625-815A-4BDB-B228-5D4F9C2541A1}") = "FavoriteClub", "..\FavoriteClub\FavoriteClub.rbproj", "{37ACEE18-BA9F-42CD-850F-DDB783BB58CB}"
+EndProject
+Project("{BD8E9625-815A-4BDB-B228-5D4F9C2541A1}") = "FavoriteQuote", "..\FavoriteQuote\FavoriteQuote.rbproj", "{A7DAF338-8D44-4699-85E5-9F0A35476EA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6904635C-A0A3-4A3E-9091-878C0219C873}.Debug|x86.Build.0 = Debug|x86
+		{6904635C-A0A3-4A3E-9091-878C0219C873}.Debug|x86.ActiveCfg = Debug|x86
+		{6904635C-A0A3-4A3E-9091-878C0219C873}.Release|x86.Build.0 = Release|x86
+		{6904635C-A0A3-4A3E-9091-878C0219C873}.Release|x86.ActiveCfg = Release|x86
+		{CC798777-E45B-4D9C-821E-AED7A7FDE1FB}.Debug|x86.Build.0 = Debug|x86
+		{CC798777-E45B-4D9C-821E-AED7A7FDE1FB}.Debug|x86.ActiveCfg = Debug|x86
+		{CC798777-E45B-4D9C-821E-AED7A7FDE1FB}.Release|x86.Build.0 = Release|x86
+		{CC798777-E45B-4D9C-821E-AED7A7FDE1FB}.Release|x86.ActiveCfg = Release|x86
+		{B435C372-DE8B-49DC-92BD-85314B1DADB7}.Debug|x86.Build.0 = Debug|x86
+		{B435C372-DE8B-49DC-92BD-85314B1DADB7}.Debug|x86.ActiveCfg = Debug|x86
+		{B435C372-DE8B-49DC-92BD-85314B1DADB7}.Release|x86.Build.0 = Release|x86
+		{B435C372-DE8B-49DC-92BD-85314B1DADB7}.Release|x86.ActiveCfg = Release|x86
+		{37ACEE18-BA9F-42CD-850F-DDB783BB58CB}.Debug|x86.Build.0 = Debug|x86
+		{37ACEE18-BA9F-42CD-850F-DDB783BB58CB}.Debug|x86.ActiveCfg = Debug|x86
+		{37ACEE18-BA9F-42CD-850F-DDB783BB58CB}.Release|x86.Build.0 = Release|x86
+		{37ACEE18-BA9F-42CD-850F-DDB783BB58CB}.Release|x86.ActiveCfg = Release|x86
+		{A7DAF338-8D44-4699-85E5-9F0A35476EA6}.Debug|x86.Build.0 = Debug|x86
+		{A7DAF338-8D44-4699-85E5-9F0A35476EA6}.Debug|x86.ActiveCfg = Debug|x86
+		{A7DAF338-8D44-4699-85E5-9F0A35476EA6}.Release|x86.Build.0 = Release|x86
+		{A7DAF338-8D44-4699-85E5-9F0A35476EA6}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal
